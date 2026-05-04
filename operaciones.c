@@ -13,6 +13,7 @@ int restar(int a, int b) {
 }
 
 /* Multiplica dos enteros usando el operador * */
+/* Dos numeros enteros multiplicados usando el operador* */
 int multiplicar(int a, int b) {
     return a * b;
 }
