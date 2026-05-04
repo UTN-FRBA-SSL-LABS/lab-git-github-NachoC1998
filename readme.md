@@ -627,7 +627,7 @@ c) `(n & 1) == 0` no funciona con números negativos en ningún compilador C est
 d) No hay ninguna diferencia; el compilador genera exactamente el mismo código para ambas
 
 ```
-RESPUESTA_P4=
+RESPUESTA_P4=b
 ```
 
 ---
@@ -645,7 +645,7 @@ c) Si hay que revertir un cambio puntual es imposible sin deshacer todo lo del d
 d) Git rechaza commits que modifiquen demasiados archivos al mismo tiempo
 
 ```
-RESPUESTA_P5=
+RESPUESTA_P5=c
 ```
 
 ---
